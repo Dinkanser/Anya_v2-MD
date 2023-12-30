@@ -63,18 +63,18 @@ global.message = {
 },
 
 module.exports = {
-  botname: process.env.BotName || "Queen Anya", 
-  author: process.env.Author || "@PikaBotz",
-  packname: process.env.PackName || "Queen Anya v2 MD",
+  botname: process.env.BotName || "Dinkenmd", 
+  author: process.env.Author || "@Dinken",
+  packname: process.env.PackName || "dinken v2 MD",
   socialLink: process.env.Web || "https://github.com/PikaBotz",
-  footer: process.env.Footer || "© Queen Anya Bot",
-  prefa: process.env.Prefix || ['-'],
-  themeemoji: process.env.ThemeEmoji || "🎐",
-  ownername: process.env.Owner_Name || "Pika~Kun",
+  footer: process.env.Footer || "© DinkenserBot",
+  prefa: process.env.Prefix || ['.'],
+  themeemoji: process.env.ThemeEmoji || "🍭",
+  ownername: process.env.Owner_Name || "𝐃ɪɴᴋᴇɴ 𝐒ᴇʀ  ",
   ownernumber: process.env.Owner_Number || "916900904828",
-  instagramId: process.env.Insta || "8.08_only_mine",
+  instagramId: process.env.Insta || "dinkan_ser",
   warns: process.env.Warns_Limits || 3,
-  mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
+  mongoUrl: process.env.MongoDB || "mongodb+srv://dinkenser500:dinkenser500@cluster0.fpuf3mj.mongodb.net/?retryWrites=true&w=majority",
   welcome: process.env.Welcome_Msg || '*@$user* joined this group today as $membersth member.\n\n_$prefix welcome off to disable this message._',
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
@@ -105,19 +105,19 @@ module.exports = {
 
 
 // Ignore them 👇🏻
-global.botname = process.env.BotName || "Queen Anya" 
-global.author = process.env.Author || "@PikaBotz" 
+global.botname = process.env.BotName || "dinkenmd" 
+global.author = process.env.Author || "@dinken_ser" 
 global.packname = process.env.PackName || "Queen Anya v2 MD" 
 global.myweb = process.env.Web || "https://github.com/PikaBotz" 
-global.footer = process.env.Footer || "© Queen Anya Bot" 
-global.prefa = process.env.Prefix || ['-'] 
-global.themeemoji = process.env.ThemeEmoji || "🎐" 
-global.ownername = process.env.Owner_Name || "Pika~Kun" 
-global.ownernumber = process.env.Owner_Number || "916900904828" 
-global.adress = process.env.Continent || "Asia, India, Assam" 
+global.footer = process.env.Footer || "© dinkan v2 MD" 
+global.prefa = process.env.Prefix || ['.'] 
+global.themeemoji = process.env.ThemeEmoji || "🍭" 
+global.ownername = process.env.Owner_Name || "𝐃ɪɴᴋᴇɴ 𝐒ᴇʀ  " 
+global.ownernumber = process.env.Owner_Number || "919744108970" 
+global.adress = process.env.Continent || "Asia, India, Kerala" 
 global.timezone = process.env.TimeZone || "Asia/Kolkata" 
-global.instagramId = process.env.Insta || "8.08_only_mine" 
-global.email = process.env.Email_Id || "example@example.com" 
+global.instagramId = process.env.Insta || "dinkan_ser" 
+global.email = process.env.Email_Id || "hehheeahnndndn@gmail.com" 
   
 //--------------- Tip ----------------\\
 global.Tips = [
